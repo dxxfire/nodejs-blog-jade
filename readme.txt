@@ -1,0 +1,1 @@
+SET DEBUG=blog-express:* & npm start
